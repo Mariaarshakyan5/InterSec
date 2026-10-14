@@ -17,8 +17,8 @@ PC1  ──►  Device1  ═══════ protected link ══════
 
 PC1 and PC2 don't know anything about it. They talk plain TCP. Device1 and Device2 agree on a key, encrypt the TCP payload of the packets in between, and hand the clear packets to the other side. Anyone listening on the link between the two devices only sees ciphertext.
 
-**Author:** Maria Arshakyan, student at a French university
-**Professor:** Mirzoyan
+**Author:** Maria Arshakyan, student at a French university in Armenia
+**Professor:** Mamikon Mirzoyan
 
 ---
 
